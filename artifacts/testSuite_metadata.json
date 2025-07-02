@@ -61,12 +61,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/1_Storage.sol": {
-			"keccak256": "0x00277c99bb177c76441ef26bdbfd7f654e9dbf77cd94c6a8f826c183948a518b",
+		"contracts/contract_a.sol": {
+			"keccak256": "0x3e48d7ed841b954087a170192681918faaebb97c5bc620241b36846e65718b49",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://598b2f165681bd1c897d868113ca4374ce4e3ca792f8c71d04c63ec23969de4f",
-				"dweb:/ipfs/QmdYSnuEZ3kJqmyWJt8anTRnMMb28km2S1zPxLCDqGozQX"
+				"bzz-raw://9b1be86aedc607ad79dbf8b11794b8d0aa3eaa8156c4bb0269cd615081986909",
+				"dweb:/ipfs/QmYz1BjDxJMSHyua5DJyFJnmYhEs4pXcKGHBdLHitCJ81P"
 			]
 		},
 		"remix_accounts.sol": {
@@ -86,11 +86,11 @@
 			]
 		},
 		"tests/newFile_test.sol": {
-			"keccak256": "0x997d7cd3b13ccaea793ee63b0a04e19bd1bf3bd4d8343cb5743ecc2793bc01de",
+			"keccak256": "0xcf67da0066d7f4e07f5631931c2413bcfbc5ef02154ada699c562ee9bbc2aa6a",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://9758b740d80842e90394e7fa98dbb1cb93855edb84e08f6210490acb24e8a6fd",
-				"dweb:/ipfs/QmbPEYjPdqayf8b4vdCnBd5ggBWP8xdd1hKRz3EooDrccX"
+				"bzz-raw://41e4711b55fcc83eb44600ac9a68ce3747cf4611826eff27aedbba20c652547d",
+				"dweb:/ipfs/QmXh6SLSQso7FLfHSBJ9in8A8AnheGHmJwsfLPujTh2V8K"
 			]
 		}
 	},

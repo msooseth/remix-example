@@ -10,7 +10,7 @@ contract A {
     return a;
   }
 
-  function complicated(int f, int g) public pure {
+  function complicated(uint f, uint g) public pure {
     assert(f+g != 20);
   }
 }
