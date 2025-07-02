@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/1_Storage.sol": "A"
+			"contracts/contract_a.sol": "A"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -59,7 +59,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/1_Storage.sol": {
+		"contracts/contract_a.sol": {
 			"keccak256": "0x00277c99bb177c76441ef26bdbfd7f654e9dbf77cd94c6a8f826c183948a518b",
 			"license": "MIT",
 			"urls": [
