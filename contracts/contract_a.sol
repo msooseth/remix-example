@@ -5,7 +5,12 @@ contract A {
   function set(uint256 b) public {
     a = b;
   }
+
   function get() public view returns (uint256) {
     return a;
+  }
+
+  function complicated(int f, int g) public pure {
+    assert(f+g != 20);
   }
 }

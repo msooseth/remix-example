@@ -26,6 +26,7 @@ contract testSuite {
         Assert.ok(2 == 2, 'should be equal');
         a.set(1);
         Assert.equal(a.get(), 1, "must be 1");
+        a.complicated(10,9);
     }
 
     /// Custom Transaction Context: https://remix-ide.readthedocs.io/en/latest/unittesting.html#customization
